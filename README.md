@@ -1,16 +1,27 @@
-# xylophone_flutter
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-A new Flutter project.
+# Xylophone 🎹
 
-## Getting Started
+## Our Goal
 
-This project is a starting point for a Flutter application.
+In this project, I dive into more Dart programming concepts such as lists, loops, functions and much much more. I also learnt how to use flutter packages and building repeated widgets.
 
-A few resources to get you started if this is your first Flutter project:
+## What I created
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+A music app that plays Xylophone sounds. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+
+## Lessons
+
+- How to incorporate open source libraries of code into a project using Flutter Packages.
+- How to play sound on both iOS and Android.
+- How to generate repeated user interface Widgets.
+- How to use Dart functions that can take input arguments as well as return an output.
+- What is the difference between var, const and final in Dart.
+- How to use Dart lists.
+- How to loop through code using a Dart for loop.
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
